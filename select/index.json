@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "輪廻転生",
+  "base_artist": "まふまふ",
+  "createdAt": "2025-12-11T09:39:26.902274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "輪廻転生",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_輪廻転生_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "輪廻転生",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": true,
+      "path": "select/02_輪廻転生_ぼくのりりっくのぼうよみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "輪廻転生",
+      "artist": "堀江晶太×天月-あまつき-",
+      "has_synced": true,
+      "path": "select/03_輪廻転生_堀江晶太×天月-あまつき-.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "輪廻転生",
+      "artist": "Vivid Undress",
+      "has_synced": false,
+      "path": "select/04_輪廻転生_Vivid_Undress.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "輪廻転生",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/05_輪廻転生_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "輪廻転生",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/06_輪廻転生_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "輪廻転生",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/07_輪廻転生_優里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輪廻転生",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_輪廻転生_まふまふ.txt"
+    }
+  ]
+}
